@@ -1,1 +1,0 @@
-# AwesomeChatGPTPrompts.github.io
